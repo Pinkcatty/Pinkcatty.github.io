@@ -1,0 +1,49 @@
+body{
+	background-color: #479A9C;
+}
+
+h1{
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+h2{
+	margin-bottom: 0;
+}
+
+.detail{
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+img{
+	max-width: 90vw;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+nav {
+	border: 2px solid grey;
+	border-radius: 10px;
+	padding: 5px;
+}
+
+nav ul {
+	margin: 0;
+	text-align: center;
+}
+
+nav li {
+	list-style: none;
+	display: inline-block;
+	margin: 0 5px;
+}
+
+nav a {
+	color: white;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: aqua;
+}
